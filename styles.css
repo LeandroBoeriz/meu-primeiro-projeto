@@ -1,0 +1,81 @@
+/* Reset de estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilo básico do corpo do site */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* Estilizando cabeçalhos */
+  h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilizando links */
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilizando imagens */
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilizando listas */
+  ul {
+    margin-bottom: 10px;
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  /* Estilizando parágrafos */
+  p {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilizando blocos de texto */
+  .block {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilizando blocos de citação */
+  blockquote {
+    background-color: #f8f8f8;
+    border-left: 3px solid #333;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilizando links em blocos de citação */
+  blockquote a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  blockquote a:hover {
+    text-decoration: underline;
+  }
+  
